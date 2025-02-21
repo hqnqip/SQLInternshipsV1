@@ -1,0 +1,11 @@
+-- database: /Users/hannahpham/Internships.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT * FROM internships;
+SELECT company FROM internships;
+SELECT * FROM internships ORDER BY salaryPerHour;
+SELECT * FROM internships ORDER BY applicDueMonth;
+SELECT * FROM internships WHERE location = 'Los Angeles, California';
+SELECT * FROM internships WHERE company = 'Twitch';
+SELECT * FROM internships WHERE forHighSchool = 'Yes';
