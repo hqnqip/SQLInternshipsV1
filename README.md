@@ -1,4 +1,4 @@
-# SQL Internship Database
+# SQL Internship Database (DATA NOT VIEWABLE)
 ## Advanced Java with Android Studios
 ### 02/21/2025
 ### Assignment Description
