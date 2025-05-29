@@ -12,3 +12,5 @@ Developed through Visual Studio Code (SQL).
 
 #### Internship Links
 https://unity.com/careers?department=students-early-career • https://codingmind.com/careers • https://www.disneycareers.com/en/internships-united-states • https://www.riotgames.com/en/work-with-us/jobs • https://www.twitch.tv/jobs/en/early-career/ • https://careers.jbhunt.com/careers/internships • https://www.edjoin.org/Home/Jobs?districtID=573&catID=3
+
+This is a solo project created by Hannah Pham.
